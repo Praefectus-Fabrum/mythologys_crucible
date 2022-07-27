@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAC,IAAI;EACZ,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,GAAG,EAAC,IAAI;CAMX;;AAZD,AAOI,UAPM,CAON,MAAM,CAAA;EACF,OAAO,EAAC,IAAI;EACZ,gBAAgB,EAAE,UAAU;EAC5B,SAAS,EAAE,MAAM;CACpB",
+    "sources": [
+        "../src/routes/ApiCalls/components/styles.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

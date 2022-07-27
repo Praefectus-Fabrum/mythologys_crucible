@@ -1,0 +1,13 @@
+.userCalls{
+    width: 50vw;
+    height: 50vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    button{
+        padding:10px;
+        background-color: aquamarine;
+        font-size: larger;
+    }
+}
