@@ -1,8 +1,8 @@
 /* eslint-disable no-param-reassign */
 import { configureStore, combineReducers } from '@reduxjs/toolkit';
-import session, { SESSION_LOGOUT } from '../modules/session';
-import languages from '../modules/languages';
-import loading from '../modules/loading';
+import session, { SESSION_LOGOUT } from 'modules/session';
+import languages from 'modules/languages';
+import loading from 'modules/loading';
 import initialState from './initialState';
 
 const combinedReducer = combineReducers({

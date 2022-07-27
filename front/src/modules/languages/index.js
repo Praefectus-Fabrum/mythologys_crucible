@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 import { createSlice } from '@reduxjs/toolkit';
-import languages from '../../languages';
-import { getBrowserLanguage } from '../../utils/language';
+import languages from 'languages';
+import { getBrowserLanguage } from 'utils/language';
 
 const USER_LANG = getBrowserLanguage();
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import hogueraAnimada from '../../assets/hoguera_animada.gif';
+import hogueraAnimada from 'assets/hoguera_animada.gif';
 
 const Home: React.FC = () => {
   return (

@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 import { createSlice } from '@reduxjs/toolkit';
-import initialState from '../../store/initialState';
+import initialState from 'store/initialState';
 
 export const SESSION_LOGOUT = 'session/clear';
 
