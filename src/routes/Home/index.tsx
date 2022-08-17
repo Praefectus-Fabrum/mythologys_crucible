@@ -1,11 +1,11 @@
 import React from 'react';
-import hogueraAnimada from 'assets/hoguera_animada.gif';
+import mythologyCircleTransparent from 'assets/mythology_circle_transparent.png';
 
 const Home: React.FC = () => {
   return (
-    <div>
+    <div className='home'>
       <h1>Get Ready for an Adventure</h1>
-      <img alt="gif" src={hogueraAnimada} />
+      <img alt="png" src={mythologyCircleTransparent} />
     </div>
   );
 };
