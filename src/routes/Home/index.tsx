@@ -4,8 +4,8 @@ import mythologyCircleTransparent from 'assets/mythology_circle_transparent.png'
 const Home: React.FC = () => {
   return (
     <div className='home'>
-      <h1>Get Ready for an Adventure</h1>
-      <img alt="png" src={mythologyCircleTransparent} />
+      <h1 className='title'>Get Ready for an Adventure</h1>
+      <img className='logo_prov' alt="png" src={mythologyCircleTransparent} />
     </div>
   );
 };
